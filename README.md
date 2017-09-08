@@ -23,3 +23,10 @@ Gå til https://www.npmjs.com, find et modul som du kan lide, og lav en lille ap
 Vi kigger på jeres løsninger næste undervisningsgang.
 
 PS. I må gerne være flere om et projekt.
+
+Eksempler på moduler er:
+
+* [sendmail](https://www.npmjs.com/package/sendmail)
+  * som kan bruges til at sende mails.
+* [colors](https://www.npmjs.com/package/colors)
+  * kan give farver på teksten i dit consol program.
